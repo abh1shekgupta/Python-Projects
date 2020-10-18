@@ -9,7 +9,7 @@ def checkWeather():
     window.label_6.setText('')
     cityName = window.lineEdit.text()
     url = "https://api.openweathermap.org/data/2.5/weather?q=" + \
-        cityName+"&appid=683143fe7e459937c0c06d27558f2f83"
+        cityName+"&appid=##############"     ''' Here #### these are replace with API key'''
     try:
         result = requests.get(url)
         x = result.json()
