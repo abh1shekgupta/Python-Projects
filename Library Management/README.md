@@ -4,5 +4,5 @@ This is a Library Management project developed in Python with PyQt5 GUI,SQLITE3 
 
 Execute Main.py file to run Program.
 
-Username- Abhishek
+Username- Abhishek,
 pass- 1234
